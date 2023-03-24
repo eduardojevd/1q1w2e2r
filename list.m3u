@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1
-http://clubtv.link/2320mar/geomex3.m3u
+m3u:http://clubtv.link/2320mar/geomex3.m3u
 #EXTINF:-1
-http://clubtv.link/2320mar/peliculas.m3u
+m3u:http://clubtv.link/2320mar/peliculas.m3u
